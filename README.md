@@ -1,5 +1,4 @@
-# INT13146 - Xử Lý Ảnh (PTIT)
-Tài liệu môn học Xử Lý Ảnh PTIT
+# 📂 INT13146 - Xử Lý Ảnh (PTIT)
 
 ## 📖 Giới thiệu
 Repo này tập hợp **tài liệu học tập, giáo trình, slide và tài nguyên tham khảo** cho môn học **Xử Lý Ảnh (INT13146)** tại Học viện Công nghệ Bưu chính Viễn thông (PTIT).  
