@@ -28,7 +28,8 @@ Giảng viên phụ trách: **Đỗ Tiến Dũng**
   Đề mẫu cho bài thi cuối kỳ năm 2021, giúp sinh viên luyện tập.
 - **Ngân hàng ptit - 2024.pdf**  
   Bộ câu hỏi, bài tập và tài liệu ôn tập cho năm học 2024.
-
+- **Đề 2025.pdf**
+  Đề thi chính thức năm 2025, dùng để tham khảo và luyện tập cho kỳ thi mới nhất.
 ---
 ## 🚀 Cách sử dụng
 1. **Clone repo**:
